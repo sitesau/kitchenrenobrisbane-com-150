@@ -1,0 +1,19 @@
+{
+  "wheel_id": 336,
+  "structure": "umbrella",
+  "slug": "kitchenrenobrisbane-com-150",
+  "project": "kitchen-renovation-brisbane-bc7fb8622d93f4e3f5a3c84d4f0e4acd98a",
+  "parent_t1_ref": "kitchenrenobrisbane.com-010",
+  "node_role": "buffer",
+  "money_target": "kitchenrenobrisbane.com.au",
+  "primary_kw": "kitchen renovation brisbane",
+  "intended_url": "https://sitesau.github.io/kitchenrenobrisbane-com-150/",
+  "writeback_nonce": "fe98407c9072d8ea",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/kitchen-renovation-brisbane/",
+      "anchor": "kitchen renovation brisbane",
+      "rel": "follow"
+    }
+  ]
+}
